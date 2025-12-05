@@ -437,7 +437,7 @@ autoparts-catalog/
 - Пароль: `password`
 
 **Адміністратор:**
-- Email: `admin@example.com`
+- Email: `utyb27544@gmail.com`
 - Пароль: `password`
 
 ---
